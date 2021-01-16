@@ -17,11 +17,7 @@ Hardware
 Staff
 -----
 
-Programmer : Joon Kang
-Programmer : Maggie Yang
-Programmer : Ke Xu
-Programmer : Tony Sun
-Programmer : Jordan Mao
+Programmer : Joon Kang, Maggie Yang, Ke Xu, Tony Sun, Jordan Mao
 
 
 
