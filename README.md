@@ -3,7 +3,7 @@ ITrash is an autonomous trash can that can detect projectile garbage, calculate 
 
 
 <p align="center">
-  <img src="./assets/intro.gif" alt="Size Limit CLI" width="600">
+  <img src="./assets/demo.gif" alt="Size Limit CLI" width="600">
 </p>
 
 Hardware
